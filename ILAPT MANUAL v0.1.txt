@@ -1,0 +1,66 @@
+INSTUCTION MANUAL
+*************************************************************************************************************************************************************
+CONTENTS
+
+1-INTRODUCTION
+1.1-PURPOSE OF THE TERMINAL
+1.2-STARTING THE TERMINAL
+1.3-LIST OF TERMINAL COMMANDS
+2-HOW THE TERMINAL WORKS
+2.1-COMMANDS A1-A9
+2.2-COMMANDS B1-B9
+2.3-COMMANDS C1-C9
+2.4-COMMANDS D1-D9
+2.5-COMMANDS E1-E9
+2.6-COMMANDS F1-F9
+2.7-COMMANDS G1-G9
+2.8-COMMANDS H1-H9
+2.9-COMMANDS I1-I9
+2.10-COMMANDS J1-J9
+2.11-COMMANDS K1-K9
+2.12-COMMANDS L1-L9
+2.13-COMMANDS M1-M9
+2.14-COMMANDS N1-N9
+2.15-COMMANDS O1-O9
+2.16-COMMANDS P1-P9
+2.17-COMMANDS Q1-Q9
+2.18-COMMANDS R1-R9
+2.19-COMMANDS S1-S9
+2.20-COMMANDS T1-T9
+2.21-COMMANDS U1-U9
+2.22-COMMANDS V1-V9
+2.23-COMMANDS W1-W9
+2.24-COMMANDS X1-X9
+2.25-COMMANDS Y1-Y9
+2.26-COMMANDS Z1-Z9
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+1-INTRODUCTION
+
+Congratulations on gaining access to the Internet Liberation Association Prime Terminal(ILAPT). The Internet Liberation Association is a non-profit independent organization run by volunteers adhering and working for the success of the ILA mission statement:
+
+"FREE THE INTERNET!"
+
+The ILA was founded in the December of 2024 and is headquartered in Miami, Florida, though it employs volunteers internationally. Being a member of the ILA does not mean you will be receiving any financial compensation for your work. Rather, it provides the tools needed to contribute to the liberation of the internet while earning yourself the collateral damage/fallout from your work.
+
+And much more. Ethics? Morals? We have our own. Check out the JUSTIFICATION section at the bottom of each protocol article. We're not monsters, after all; we're FREEDOM FIGHTERS!
+
+Do not hesitate to claim responsibility for your actions in the name of the ILA. Though physical detainment is highly unlikely, there are instances where your IP address may be locked out from doing certain functions.
+
+The ILA welcomes and supports you as a member of the team and wishes you luck on your journey to liberate the internet with us moving forward.
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+1.1-The Purpose of the Terminal
+
+The terminal is a tool to be used by you in order to help liberate the internet. Some activities one may engage in using this terminal includes:
+
+-Permanently borrowing from private crypto wallets.
+-Seizing and annihilating the servers of businesses and corporations.
+-Attacking the functionality of regulatory bots roaming the internet.
+-Gaining access to internet user's browsing information, search history and personal data.
+-Infiltrating and deleting the hard drive of certain internet users.
+-Conducting ransomware attacks on internet moderators.
+
+Now that you have a sense on what you'll be doing, you should now that the terminal is in constant development. Many features may be added to the future which will serve to improve the functionality and capability of the terminal. The manual will also be updated accordingly.
+
+
+
+
